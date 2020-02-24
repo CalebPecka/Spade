@@ -3,8 +3,8 @@
 Our goal is to create a service for people to get the benefit of the affordable cost of buying in bulk while also receiving any small quantity they desire. This will be accomplished with an online community-based ordering service. 
 
 ## Assignment Tasks
-**Task:** Select team leader for current assignment.
-	<br /> -Team Leader: Caleb Pecka
+**Task:** Select team leader for current assignment. <br />
+ - Team Leader: Caleb Pecka
 	
 **Task:** Select a specific customer segment (or related group of customer segments). Describe the customer segment(s) clearly, either demographically, economically, geographically, etc. What needs do these customers have? What problems do they need solved? Consider how these customers could benefit from an online business.
 	<br /> -One customer segment we would like to target is small-business owners. Economically they are searching for valuable deals, often purchasing products in bulk to supply and fund their business. They have a need for a diverse set of products. The problem is that they can’t afford to spend a large amount of money on those products to get a return investment. 
