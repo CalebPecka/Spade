@@ -1,14 +1,12 @@
 # T1: Business Opportunity and Market Feasibility
-## Spade: Business Concept 
+## Spade: Business Concept Overview
 Our goal is to create a service for people to get the benefit of the affordable cost of buying in bulk while also receiving any small quantity they desire. This will be accomplished with an online community-based ordering service. 
 
 **Task:** Select team leader for current assignment.
-
-	-Team Leader: Caleb Pecka
+	<br /> -Team Leader: Caleb Pecka
 	
 **Task:** Select a specific customer segment (or related group of customer segments). Describe the customer segment(s) clearly, either demographically, economically, geographically, etc. What needs do these customers have? What problems do they need solved? Consider how these customers could benefit from an online business.
-
-	-One customer segment we would like to target is small-business owners. Economically they are searching for valuable deals, often purchasing products in bulk to supply and fund their business. They have a need for a diverse set of products. The problem is that they can’t afford to spend a large amount of money on those products to get a return investment. 
+	<br /> -One customer segment we would like to target is small-business owners. Economically they are searching for valuable deals, often purchasing products in bulk to supply and fund their business. They have a need for a diverse set of products. The problem is that they can’t afford to spend a large amount of money on those products to get a return investment. 
 
 **Task:** Develop the value propositions you would want to offer the customer segment(s). Consider a wide range of possibilities such as online retail, non-profit, business-to-business, or government contracting. Consider products, services, information, and/or transaction support. (If you select a non-profit business, it must be able to sustain itself financially.)
 	-We are offering value in economics, time efficiency, customer loyalty, and transportation information. We believe the most feasible way to combine these needs is through online retail. Products we offer would be in the form of small general convenience items that either stores benefit from selling, or that large quantities of people could need. Services would be an online system for people to collaborate and communicate on which products they want to bulk purchase. Transactions could be supported by credit card transactions or PayPal.
