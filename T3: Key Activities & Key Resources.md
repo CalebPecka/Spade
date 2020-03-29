@@ -1,0 +1,19 @@
+Mission: Each team needs to identify the key activities and key resources for the online business.
+
+Team Leader: Hugh Morton
+
+Our goal is to cut out the middle costs by delivering physical products directly from the producer to the consumer.  The first information that would need to be gathered would be customer data.  The website we maintain would allow users to mark what they are interested in and is connected to a database to organize the information.  In order to accomplish this we will need to have a digital system that will facilitate purchases between our company and the factories.  We would then need to move the products to a location in which the customers who asked for those products will pick up their purchases. In the beginning of Spade, we will outsource customer service but after several years, customer service will be integrated into our business.
+ 
+Key resources:
+Physical: We will need to have access to the physical products and means to transport them to the various locations. We will have trucks to transport the goods from shipments to the pick up locations. We would also need small storage locations to store the customer’s purchased goods for the duration of about a week.
+Intellectual: We will have a trademark for the Spade Brand, a Copyright for our logo, and information in our databases.
+Human: To conduct our business processes, we will need warehouse workers, IT personnel, a marketing team, and general hierarchical leadership positions. We will also maintain rich connections with various manufacturers to purchase the products as well as workers to transport the physical products.
+Financial Assets: Spade will need necessary finances to purchase and deliver the physical products and will be done by not purchasing products until they have been purchased through our business. That is, we will purchase products from the manufacturers in bulk after enough people expressed interest in it through the website to ensure it is profitable. In addition, we will use PayPal and credit/debit cards to conduct all our consumer transactions.
+ 
+Task 4: A key resource for an online business is its use of technology. Consider hardware, software, databases, and data communications. Based on this, develop the Information Technology Platform: a description of the computing and communications equipment and software your new organization needs to operate. This includes not only the equipment for the website, but also the technology to run the business processes and the business administration.
+We will have a website for customers to learn about what we do and purchase products. Customers would be able to express interest in products they would like to buy, and then the website will store that information in a database. The SQL database will help us keep track of what products people want and how many people are interested in a given product. In addition, we will need a centralized server located at our headquarter to store our data and computers to access our database. We will also need computers to connect with manufacturers and plan business activities such as planning deliveries and responding to customers.
+Our business will communicate peer-to-peer with the use of Slack and with manufacturers with interpersonal communication services like phone and email. IT management will be required to use GitHub markdown documents for the integration and collaboration of website resources and ideas, as well as database organization.
+ 
+Task 5: Ensure that the activities and resources fit your customer segments, value propositions, channels, and customer relationships.
+Our goal is to deliver more affordable deals to a large customer base, so setting these systems in place would allow us to achieve that goal. Our customers would be comfortable with using a website and satisfied by the excellent priced product and customer service.
+
