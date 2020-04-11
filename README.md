@@ -6,9 +6,17 @@ CIST 2100-003: Spring 2020 Group Project
   <tr>
     <td rowspan="2">
       <b>Key Partners</b>
-      <p>Who are our Key Partners?<br>
-      Who are our key suppliers?<br>
-      Which Key Activities do partners perform?</p>
+	<ul>
+		<li><i>Acelerar:</i> They will reduce the costs and risks of our company as well as provide services by outsourcing customer service.</li>
+		<li><i> Affiliated Warehouse Companies Inc. :</i> This company performs key activities in the form of factory to factory transportations. They are a trucking service, as well as offering Warehouse storage systems for our products. They will also provide a service in the form of informing us the legal standards of our storage, whether or not we are in accordance with common legal practices. </li>
+		<li><i>US Patent and Trademark Office & Copyright:</i> The Patent office will be responsible for providing key services in the form of legal protection of our company branding and ideas. </li>
+		<li><i>InfiNet Technology:</i> InfiNet is a local Omaha company which will perform key activities in the form of IT infustructure and online networking support. </li>
+		<li><i>Omaha Media Group:</i> This is a local group which provides online services and perform key activities in the form of local Omaha marketing. They also offer web management and digital emailing services to advertise our business. </li>
+		<li><i> Manufacturing: </i> Manufacturing is a key access to resources and will be required from many different household product companies such as Kellogs Breakfast Ceral and many more. </li>
+		<li><i>Wells Fargo:</i> Wells Fargo is our bank of choice to represent ourselves as a corporate entity. This will reduce the costs of our operations and reduce financial risks.</li>
+		<li><i>PayPal: </i> PayPal performs key activities in the form of business transactions.</li>
+		<li><i>Oracle: </i> Oracle provides public services in the form of centralized data servers.</li>
+	</ul>
     </td>
     <td>
       <b>Key Activities</b>
