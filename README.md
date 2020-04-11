@@ -19,12 +19,10 @@ CIST 2100-003: Spring 2020 Group Project
     </td>
     <td rowspan="2" colspan="2">
       <b>Value Propositions</b>
-      <p>What value do we deliver to the customer?<br>
-      Which one of our customer's problems are we helping to solve?<br>
-      What bundles of products and services are we offering to each Customer Segment?<br>
-      are different and <br>
-      worth paying <br>
-      attention</p>
+	<ul>
+		<li> We are offering value in economics, time efficiency, customer loyalty, and transportation information. We believe the most feasible way to combine these needs is through online retail. Products we offer would be in the form of small general convenience items that either stores benefit from selling, or that large quantities of people could need. Services would be an online system for people to collaborate and communicate on which products they want to bulk purchase. Transactions could be supported by credit card transactions or PayPal.</li>
+		<li> People want to pay lower prices for everyday items. We want to provide a way to sell items at a cheaper cost through the value of bulk purchasing. </li>
+	</ul>
       <br><br><br><br><br>
     </td>
     <td>
@@ -35,8 +33,9 @@ CIST 2100-003: Spring 2020 Group Project
     </td>
     <td rowspan="2">
       <b>Customer Segments</b>
-      <p>For whom are we creating value?<br>
-      Who are our most important customers?</p>
+	<ul>
+		<li> One customer segment we would like to target is small-business owners. Economically they are searching for valuable deals, often purchasing products in bulk to supply and fund their business. They have a need for a diverse set of products. The problem is that they can’t afford to spend a large amount of money on those products to get a return investment. <\li>
+	</ul>
     </td>
   </tr>
   <tr>
