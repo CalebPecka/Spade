@@ -14,4 +14,8 @@
   - _Wells Fargo:_ Wells Fargo is our bank of choice to represent ourselves as a corporate entity. This will reduce the costs of our operations and reduce financial risks.
   - _PayPal:_ PayPal performs key activities in the form of business transactions.
   - _Oracle:_ Oracle provides public services in the form of centralized data servers.
+  
+  
+ Business Website: spade-105973.square.site
+
  
