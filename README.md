@@ -35,6 +35,7 @@ CIST 2100-003: Spring 2020 Group Project
       <b>Customer Segments</b>
 	<ul>
 		<li> One customer segment we would like to target is small-business owners. Economically they are searching for valuable deals, often purchasing products in bulk to supply and fund their business. They have a need for a diverse set of products. The problem is that they can’t afford to spend a large amount of money on those products to get a return investment. <\li>
+		<li> Our customer segment is middle class society that has a direct interest in value and affordability for household products. Several niche customer segments include college students who are very interested in cost minimization, as well as small businesses who need a consistent and local form of transportation for acquiring mass products. Our online business will function as an online shopping service that allows people to request products, and once a product query has reached a certain quantity threshold, that product will be delivered to our businesses warehouses, where they are eventually distributed. We believe the most economically feasible products to begin with are grocery products - fruits, vegetables, canned goods, etc. After 2 years of economic success, we will increase product diversity by moving into household products such as cleaners. After 5 years, we will delve into bulk electronics. Seeing 20 years into the future, it is not economically impossible that we could investigate the sale of bulk yachts and private jets.</li>
 	</ul>
     </td>
   </tr>
