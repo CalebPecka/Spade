@@ -12,10 +12,10 @@ CIST 2100-003: Spring 2020 Group Project
     </td>
     <td>
       <b>Key Activities</b>
-      <p>What Key Activities do our Value Propositions require?<br>
-      Our Distribution Channels?<br>
-      Customer Relationships?<br>
-      Revenue Streams?</p>
+	<ul>
+		<li> Our goal is to cut out the middle costs by delivering physical products directly from the producer to the consumer. The first information that would need to be gathered would be customer data. The website we maintain would allow users to mark what they are interested in and is connected to a database to organize the information. In order to accomplish this we will need to have a digital system that will facilitate purchases between our company and the factories. We would then need to move the products to a location in which the customers who asked for those products will pick up their purchases. In the beginning of Spade, we will outsource customer service but after several years, customer service will be integrated into our business.</li>
+		<li> Our goal is to deliver more affordable deals to a large customer base, so setting these systems in place would allow us to achieve that goal. Our customers would be comfortable with using a website and satisfied by the excellent priced product and customer service. </li>
+	</ul>
     </td>
     <td rowspan="2" colspan="2">
       <b>Value Propositions</b>
@@ -34,7 +34,7 @@ CIST 2100-003: Spring 2020 Group Project
     <td rowspan="2">
       <b>Customer Segments</b>
 	<ul>
-		<li> One customer segment we would like to target is small-business owners. Economically they are searching for valuable deals, often purchasing products in bulk to supply and fund their business. They have a need for a diverse set of products. The problem is that they can’t afford to spend a large amount of money on those products to get a return investment. <\li>
+		<li> One customer segment we would like to target is small-business owners. Economically they are searching for valuable deals, often purchasing products in bulk to supply and fund their business. They have a need for a diverse set of products. The problem is that they can’t afford to spend a large amount of money on those products to get a return investment. </li>
 		<li> Our customer segment is middle class society that has a direct interest in value and affordability for household products. Several niche customer segments include college students who are very interested in cost minimization, as well as small businesses who need a consistent and local form of transportation for acquiring mass products. Our online business will function as an online shopping service that allows people to request products, and once a product query has reached a certain quantity threshold, that product will be delivered to our businesses warehouses, where they are eventually distributed. We believe the most economically feasible products to begin with are grocery products - fruits, vegetables, canned goods, etc. After 2 years of economic success, we will increase product diversity by moving into household products such as cleaners. After 5 years, we will delve into bulk electronics. Seeing 20 years into the future, it is not economically impossible that we could investigate the sale of bulk yachts and private jets.</li>
 	</ul>
     </td>
@@ -47,6 +47,7 @@ CIST 2100-003: Spring 2020 Group Project
 				<li><i>Intellectual:</i> We will have a trademark for the Spade Brand, a Copyright for our logo, and information in our databases.</li>
 				<li><i>Human:</i> To conduct our business processes, we will need warehouse workers, IT personnel, a marketing team, and general hierarchical leadership positions. We will also maintain rich connections with various manufacturers to purchase the products as well as workers to transport the physical products.</li>
 				<li><i>Financial Assets:</i> Spade will need necessary finances to purchase and deliver the physical products and will be done by not purchasing products until they have been purchased through our business. That is, we will purchase products from the manufacturers in bulk after enough people expressed interest in it through the website to ensure it is profitable. In addition, we will use PayPal and credit/debit cards to conduct all our consumer transactions.</li>
+				<li><i>Technology:</i> We will have a website for customers to learn about what we do and purchase products. Customers would be able to express interest in products they would like to buy, and then the website will store that information in a database. The SQL database will help us keep track of what products people want and how many people are interested in a given product. In addition, we will need a centralized server located at our headquarter to store our data and computers to access our database. We will also need computers to connect with manufacturers and plan business activities such as planning deliveries and responding to customers. Our business will communicate peer-to-peer with the use of Slack and with manufacturers with interpersonal communication services like phone and email. IT management will be required to use GitHub markdown documents for the integration and collaboration of website resources and ideas, as well as database organization.</li>
 			</ul>
     </td>
     <td>
@@ -83,3 +84,6 @@ https://github.com/CalebPecka/Spade/blob/master/T2:%20Channels%20%26%20Customer%
 
 T3: Key Activities & Key Resources
 https://github.com/CalebPecka/Spade/blob/master/T3:%20Key%20Activities%20%26%20Key%20Resources.md
+
+T4: Key Partners and Website Design
+https://github.com/CalebPecka/Spade/blob/master/T4:%20Key%20Partners%20%26%20Website%20Design.md
