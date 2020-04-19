@@ -107,11 +107,14 @@ We assumed a 100% markup on product purchases (double the manufacturing costs is
 <b>Average product sale value = $100 - $50 - 2.9%($100) - $0.80 = $46.30</b>
 
 This means that the following equation represents how many sales we need to make to go even each year:
+
 <b>$46.30 * NUMBER OF YEARLY PURCHASES = $783,280</b>
+
 To be financially stable on the first year, we need to make an estimated 16,920 transactions (40 transactions a day).
 For year two, this value increases to 30,830 transactions to be financially stable (85 transactions a day).
 For year three, this value increases to 54,650 transactions.
 Any excess transactions are our companies net profit.
+
 We believe this company plan is manageable consider our marketing budget. The company would heavily rely upon seasonal offerings, which our marketing team has plenty of funds to support. Holidays such as Fourth of July (seasonal fireworks sales) have incredibly sought after products. These events are crucial to the economic stability of our company as well as word-of-mouth advertising for startup. We would also heavily target student populations, we frequently need cheap supplies to stay afloat. This would be a full scale operation which requires our undivided attention to be financially successful.
 
 
