@@ -39,3 +39,16 @@
     <td> N/A </td>
   </tr>
 </table>
+## Sources:
+
+https://www.acelerartech.com/pricing//
+http://www.alltrucking.com/faq/per-mile-trucking-salary//
+https://www.wellsfargo.com/biz/checking/simple//
+https://www.warehousingandfulfillment.com/warehousing-and-fulfillment-resources/warehousing-and-fulfillment-2017-warehouse-costs-and-pricing-survey//
+Summary of expenses for bank account/
+https://www.oracle.com/assets/technology-price-list-070617.pdf/
+https://www.acelerartech.com/pricing//
+http://www.alltrucking.com/faq/per-mile-trucking-salary//
+https://www.bls.gov/emp//
+https://www.upcounsel.com/trademark-a-logo-cost/
+https://www.warehousingandfulfillment.com/warehousing-and-fulfillment-resources/warehousing-and-fulfillment-2017-warehouse-costs-and-pricing-survey//
