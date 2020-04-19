@@ -1,5 +1,6 @@
-# Overview of Expenses
+# Financial Plan
 
+## Overview of Expenses
 <table>
   <tr>
     <th> Business Needs </th>
@@ -98,6 +99,9 @@
   </tr>
   
 </table>
+
+## Overview of Revenue
+Our income primarily comes from customers purchasing products. The exact amount depends on the products customers purchase as well as how many products they purchase.
 
 <h1> Sources: </h1>
 <p>https://www.acelerartech.com/pricing/</p>
