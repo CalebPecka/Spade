@@ -115,7 +115,9 @@ For year two, this value increases to 30,830 transactions to be financially stab
 For year three, this value increases to 54,650 transactions.
 Any excess transactions are our companies net profit.
 
-We believe this company plan is manageable consider our marketing budget. The company would heavily rely upon seasonal offerings, which our marketing team has plenty of funds to support. Holidays such as Fourth of July (seasonal fireworks sales) have incredibly sought after products. These events are crucial to the economic stability of our company as well as word-of-mouth advertising for startup. We would also heavily target student populations, we frequently need cheap supplies to stay afloat. This would be a full scale operation which requires our undivided attention to be financially successful.
+We estimate our daily transactions to average at 50, however, we expect sales to significantly increase over holiday periods, when many similar bulk transactions will be requested in a short period of time. Averaging out these seasonal differences comes to an average of 53.2 sales per day. This is a net profit of 13.2 sales per day which, given our formula above, is a net profit of $223,000 on our first year. We can assume our customer base will double each year given that the size of our company is expected to double yearly. This puts us at a net revenue of $374,000 on our second year, and $1,066,000 net revenue for our third year.
+
+We believe this company plan is manageable consider our marketing budget. The company would somewhat rely upon seasonal offerings, which our marketing team has plenty of funds to support. Holidays such as Fourth of July (seasonal fireworks sales) have incredibly sought after products. These events are crucial to the economic stability of our company as well as word-of-mouth advertising for startup. We would also heavily target student populations, we frequently need cheap supplies to stay afloat. This would be a full scale operation which requires our undivided attention to be financially successful.
 
 
 <h1> Sources: </h1>
