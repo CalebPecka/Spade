@@ -82,9 +82,7 @@ https://spade-105973.square.site/
     </td>
     <td colspan="3">
       <b>Revenue Streams</b>
-      <p>For what value are customers willing to pay? <br>
-      How would they prefer to pay? <br>
-      What is the revenue structure?</p>
+      <p> Our sources estimate that the average customer is expecting to spend $100 on a combination of grocery/retail items per usage of website. In an online economy, it only natural that people will want to pay with digital transfer methods such as credit cards and pay pall. Assuming an average of 53 transactions per day on our first year, combined with logistic growth, we expect to have a net profit of $223,000 on our first year: $374,000 on our second year: and $1,066,000 on our third year.</p>
     </td>
   </tr>
 </table>
