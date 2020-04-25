@@ -1,5 +1,5 @@
 # Spade
-// Logo here
+![Business Logo](spade_logo.jpg?raw=true)
 
 ## Summary of Business
 Add a description that is about the length of an evelvator pitch for the business.
