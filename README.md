@@ -1,7 +1,13 @@
 # Spade
-// Logo Here
+// Logo here
 
 ## Summary of Business
+Add a description that is about the length of an evelvator pitch for the business.
+
+## Website of Business
+https://spade-105973.square.site/
+
+## Business Model Canvas
 
 ## Business Model Canvas
 <table>
