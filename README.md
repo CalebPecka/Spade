@@ -2,12 +2,10 @@
 ![Business Logo](spade_logo.jpg?raw=true)
 
 ## Summary of Business
-Add a description that is about the length of an evelvator pitch for the business.
+Our goal is to create a service for people to get the benefit of the affordable cost of buying in bulk while also receiving any small quantity they desire. This will be accomplished with an online community-based ordering service. Customers will specify what they would like to purchase and when enough people are interested, we deliver the desired product at a lower cost to everyone.
 
 ## Website of Business
 https://spade-105973.square.site/
-
-## Business Model Canvas
 
 ## Business Model Canvas
 <table>
@@ -91,15 +89,9 @@ https://spade-105973.square.site/
   </tr>
 </table>
 
-
-
-T1: Business Opportunity & Market Feasibility https://github.com/CalebPecka/Spade/blob/master/T1:%20Business%20Opportunity%20and%20Market%20Feasibility.md
-
-T2: Channels & Customer Relationships
-https://github.com/CalebPecka/Spade/blob/master/T2:%20Channels%20%26%20Customer%20Relationships.md
-
-T3: Key Activities & Key Resources
-https://github.com/CalebPecka/Spade/blob/master/T3:%20Key%20Activities%20%26%20Key%20Resources.md
-
-T4: Key Partners and Website Design
-https://github.com/CalebPecka/Spade/blob/master/T4:%20Key%20Partners%20%26%20Website%20Design.md
+## Founders
+<!-- Team members -->
+* Caleb Pecka, Chief Marketing Coordinator
+* James Lang, Head of Public Affairs
+* Hugh Morton, Graphic Designer
+* Edward Niemann, Lead Programmer
