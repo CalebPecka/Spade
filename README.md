@@ -75,10 +75,7 @@ https://spade-105973.square.site/
   <tr>
     <td colspan="3">
       <b>Cost Structure</b>
-      <p>What are the most important costs to our business?<br>
-      Which Key Resources are most expensive?<br>
-      Which Key Activities are most expensive?<br>
-      How does it coes to establish and run the business?</p>
+      <p> Our three most important costs are transportation, product storage, and company staffing. Our key resources are the products which we wish to purchase from manufacturers and then resell. These products are net inherently expenisve. Rather, the process and logistics of transporting these products is far more expensive. The most expensive key activity is warehouse storage. Ownership of the warehouse as well as warehouse management both play roles in the cost of maintaining such a large scale business. Assuming exponential scaling, Spade will cost an estimated $750,000 to run its first year: $1.4 million its second year: and $2.5 million its third year. (We would consider roughly $500,000 from the first year costs as the cost to establish the company.)</p>
     </td>
     <td colspan="3">
       <b>Revenue Streams</b>
