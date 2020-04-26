@@ -26,10 +26,7 @@ https://spade-105973.square.site/
     </td>
     <td>
       <b><a href="Key_Activities.md">Key Activities</a></b>
-	<ul>
-		<li> Our goal is to cut out the middle costs by delivering physical products directly from the producer to the consumer. The first information that would need to be gathered would be customer data. The website we maintain would allow users to mark what they are interested in and is connected to a database to organize the information. In order to accomplish this we will need to have a digital system that will facilitate purchases between our company and the factories. We would then need to move the products to a location in which the customers who asked for those products will pick up their purchases. In the beginning of Spade, we will outsource customer service but after several years, customer service will be integrated into our business.</li>
-		<li> Our goal is to deliver more affordable deals to a large customer base, so setting these systems in place would allow us to achieve that goal. Our customers would be comfortable with using a website and satisfied by the excellent priced product and customer service. </li>
-	</ul>
+	    <p> We keep track of customer data through a website and a database to serve their needs. We cut out middle costs by delivering products from the manufacturuers to the consumers. We will move those products to each location by truck.  </p>
     </td>
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
