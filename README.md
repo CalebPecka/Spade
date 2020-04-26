@@ -52,7 +52,8 @@ Oracle (Data management)</p>
   <tr>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Cost Structure</a></b>
-      <p> Our three most important costs are transportation, product storage, and company staffing. Our key resources are the products which we wish to purchase from manufacturers and then resell. These products are net inherently expenisve. Rather, the process and logistics of transporting these products is far more expensive. The most expensive key activity is warehouse storage. Ownership of the warehouse as well as warehouse management both play roles in the cost of maintaining such a large scale business. Assuming exponential scaling, Spade will cost an estimated $750,000 to run its first year: $1.4 million its second year: and $2.5 million its third year. (We would consider roughly $500,000 from the first year costs as the cost to establish the company.)</p>
+      <p> Our biggest expenses are transportation, storage, and company employees.
+Cost estimates are $750,000 for the first year, $1.4 million for the second year, and $2.5 million for the third year. </p>
     </td>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Revenue Streams</a></b>
