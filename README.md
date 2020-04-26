@@ -50,13 +50,7 @@ Oracle (Data management)</p>
   <tr>
     <td>
       <b><a href="Key_Resources.md">Key Resources</a></b>
-			<ul>
-				<li> <i>Physical:</i> We will need access to the physical products and means to transport them to the various locations. We will have trucks to transport the goods from shipments to the pick up locations. We would also need small storage locations to store the customer’s purchased goods for the duration of about a week. </li>
-				<li><i>Intellectual:</i> We will have a trademark for the Spade Brand, a Copyright for our logo, and information in our databases.</li>
-				<li><i>Human:</i> To conduct our business processes, we will need warehouse workers, IT personnel, a marketing team, and general hierarchical leadership positions. We will also maintain rich connections with various manufacturers to purchase the products as well as workers to transport the physical products.</li>
-				<li><i>Financial Assets:</i> Spade will need necessary finances to purchase and deliver the physical products and will be done by not purchasing products until they have been purchased through our business. That is, we will purchase products from the manufacturers in bulk after enough people expressed interest in it through the website to ensure it is profitable. In addition, we will use PayPal and credit/debit cards to conduct all our consumer transactions.</li>
-				<li><i>Technology:</i> We will have a website for customers to learn about what we do and purchase products. Customers would be able to express interest in products they would like to buy, and then the website will store that information in a database. The SQL database will help us keep track of what products people want and how many people are interested in a given product. In addition, we will need a centralized server located at our headquarter to store our data and computers to access our database. We will also need computers to connect with manufacturers and plan business activities such as planning deliveries and responding to customers. Our business will communicate peer-to-peer with the use of Slack and with manufacturers with interpersonal communication services like phone and email. IT management will be required to use GitHub markdown documents for the integration and collaboration of website resources and ideas, as well as database organization.</li>
-			</ul>
+	    <p>Physical products, transportation services, storage facilities, brand trademark, website to connect with customers, database</p>
     </td>
     <td>
       <b><a href="Channels.md">Channels</a></b>
