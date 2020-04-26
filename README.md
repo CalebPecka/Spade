@@ -27,10 +27,7 @@ Oracle (Data management)</p>
     </td>
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
-	<ul>
-		<li> We are offering value in economics, time efficiency, customer loyalty, and transportation information. We believe the most feasible way to combine these needs is through online retail. Products we offer would be in the form of small general convenience items that either stores benefit from selling, or that large quantities of people could need. Services would be an online system for people to collaborate and communicate on which products they want to bulk purchase. Transactions could be supported by credit card transactions or PayPal.</li>
-		<li> People want to pay lower prices for everyday items. We want to provide a way to sell items at a cheaper cost through the value of bulk purchasing. </li>
-	</ul>
+	    <p> Customers' satisfaction: the products customers want, time effecient, lower prices </p>
       <br><br><br><br><br>
     </td>
     <td>
