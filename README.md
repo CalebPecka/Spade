@@ -11,15 +11,15 @@ https://spade-105973.square.site/
 <table>
   <tr>
     <td rowspan="2">
-      <b><a href="Key_Partners.md">Key Partners</a></b>
+	    <b><a href="Key_Partners.md">Key Partners</a></b>
 	    <p> Acelerar (Customer service)
-Affiliated Warehouse Companies Inc. (Storing and transporting products), <br>
-InfiNet Technology (IT), <br>
-Omaha Media Group (Advertisement), <br>
-Various Manufacturuers (Products), <br>
-Wells Fargo (Finances), <br>
-PayPal (Transactions), <br>
-Oracle (Data management)</p>
+Affiliated Warehouse Companies Inc. (Storing and transporting products),
+InfiNet Technology (IT),
+Omaha Media Group (Advertisement),
+Various Manufacturuers (Products),
+Wells Fargo (Finances),
+PayPal (Transactions),
+Oracle (Data management)
     </td>
     <td>
       <b><a href="Key_Activities.md">Key Activities</a></b>
